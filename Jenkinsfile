@@ -27,4 +27,3 @@ pipe line {
         }
      }
   }
-192.168.47.129   localhost
